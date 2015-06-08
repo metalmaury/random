@@ -5,4 +5,5 @@ if(numero <= 0.5){
 }else{
   consoloe.log('\n' +numero + ' mayor que 0,5 \n');
 }
+console.log('modif');
 console.log('fin');
